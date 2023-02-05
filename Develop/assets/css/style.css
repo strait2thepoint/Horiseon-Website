@@ -41,15 +41,19 @@ body {
     margin-left: 25px;
 }
 
+/*this makes all the a tags have #ffffff color font*/
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*this makes all p tags have font size of 16px*/
 p {
     font-size: 16px;
 }
 
+/*hero is the main large pic at the top of the page.  It needs reworking for a screen reader title*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/*this is for the images in the content section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/*consolidated code for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,8 +92,6 @@ p {
     background-color: #2589bd;
     color:#ffffff
 }
-
-/*deleted code here that wasn't doing much*/
 
 .benefit-img {
     display: block;
