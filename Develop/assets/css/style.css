@@ -53,12 +53,11 @@ p {
     font-size: 16px;
 }
 
-/*hero is the main large pic at the top of the page.  It needs reworking for a screen reader title*/
+/*hero is the main large pic at the top of the page.*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
