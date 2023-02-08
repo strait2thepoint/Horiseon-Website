@@ -49,24 +49,13 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/*this is the large photo near the top of the page*/
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -75,10 +64,7 @@ p {
     margin-left: 20px;
 }
 
-<<<<<<< HEAD
 /*benefit area- lots to consolidate*/
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,10 +74,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-<<<<<<< HEAD
     color:#ffffff
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
 }
 
 .benefit-lead {
@@ -142,108 +125,30 @@ p {
     max-width: 150px;
 }
 
-<<<<<<< HEAD
 /*search engine optimization-consolidate if poss*/
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
-.search-engine-optimization {
+.seo-orm-smm {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
-<<<<<<< HEAD
-=======
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
-.search-engine-optimization img {
+/*seo-orm-smm images*/
+.float-left {
+    float: left;
+    margin-right: 25px;
     max-height: 200px;
 }
 
-<<<<<<< HEAD
-=======
-.online-reputation-management img {
+#float-right {
+    float: right;
+    margin-left: 25px;
     max-height: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-<<<<<<< HEAD
-/*online reputation management tags- consoidate if poss*/
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-<<<<<<< HEAD
-/*Social media marketing tags-consolidate if possible*/
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-<<<<<<< HEAD
 /*footer tags- consolidate if possible*/
-=======
->>>>>>> e5845259f5ac0c59a56004cb0caf38b4a8d73424
 .footer {
     padding: 30px;
     clear: both;
