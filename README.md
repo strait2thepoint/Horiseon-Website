@@ -1,11 +1,3 @@
-What was your motivation?
-Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-What problem does it solve?
-What did you learn?
-What makes your project stand out?
-Your README might also describe some of the challenges you faced, as well as the features you plan to implement in the future.
- include a link to the deployed application so people can see it in action!
-
  # <Horiseon Social Solution Services>
 
 ## Horiseon is a search engine optimization, on line reputation management and social media marketing company.  They desired a UI that showcased their company.
@@ -21,10 +13,11 @@ Your README might also describe some of the challenges you faced, as well as the
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
+Find the repo at:
+https://github.com/strait2thepoint/project-one.git
 
+**** will edit out soon***
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
@@ -32,6 +25,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+****
 
 ## Credits
 UI's I referred to for assistance:
@@ -44,17 +38,4 @@ https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
 https://www.google.com/
 
-
-
-
-
-
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
