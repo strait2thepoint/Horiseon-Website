@@ -25,19 +25,7 @@
 Find the repo at:
 https://github.com/strait2thepoint/project-one.git
 
-
-**** will edit out soon***
-Provide instructions and examples for use. Include screenshots as needed.
-
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-****
-
+*Will add screenshot and deployment when able*
 
 ## Credits
 UI's I referred to for assistance:
