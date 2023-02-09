@@ -22,10 +22,15 @@
 
 
 ## Usage
-Find the repo at:
+Find the website at:
 https://strait2thepoint.github.io/Horiseon-Website/
 
-*Will add screenshot and deployment when able*
+Find the repo at:
+https://github.com/strait2thepoint/Horiseon-Website.git
+
+![alt text](../Develop/assets/images/Screenshot_20230205_102603.png)
+![alt text](../Develop/assets/images/Screenshot_20230205_102612.png)
+![alt text](../Develop/assets/images/Screenshot_20230205_102621.png)
 
 ## Credits
 UI's I referred to for assistance:
